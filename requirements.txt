@@ -1,3 +1,10 @@
+phidata 
+yfinance
+duckduckgo-search
+groq
+openai
+streamlit
 pandas
-matplotlib
-python-dotenv
+plotly
+googlesearch-python
+pycountry
